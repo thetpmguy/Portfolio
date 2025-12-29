@@ -8,7 +8,7 @@
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
-            <a href="/AgentBreeder" class="mywork-link">
+            <a 
                 Agent Compiler: Design-time governance for AI agents. 
             </a>
         </h3>
