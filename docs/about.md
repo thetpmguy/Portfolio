@@ -41,7 +41,7 @@
 
 
 
-I am a product leader specializing in AI-native platform innovation, mission-critical infrastructure, and domain-driven ecosystems engineered for global scalability.
+Product leader specializing in AI-native platform innovation, mission-critical infrastructure, and domain-driven ecosystems engineered for global scalability.
 I excel at transforming complex platform challenges into intelligent, automated, and resilient systems that unlock business velocity, elevate developer experience, and reduce operational overhead in high-growth environments. 
 
 My core expertise encompasses Retrieval Augmented Generation (RAG), LangChain orchestration, Model Context Protocol (MCP), Agent-to-Agent (A2A) architectures, Deep Agents and multi-agent systems, empowering enterprises to advance beyond static platforms into intelligent, context-aware, automated ecosystems.
