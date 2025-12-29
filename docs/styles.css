@@ -1265,10 +1265,10 @@ html {
 }
 /* Header logo image sizing (tune here) */
 #main-header .header-logo img {
-  width: 54px;
-  height: 54px;
-  max-width: 54px;
-  max-height: 54px;
+  width: 64px;
+  height: 64px;
+  max-width: 64px;
+  max-height: 64px;
   object-fit: cover;
   display: block;
   border-radius: 9999px;
@@ -1277,9 +1277,9 @@ html {
 
 @media (min-width: 640px) {
   #main-header .header-logo img {
-    width: 74px;
-    height: 74px;
-    max-width: 74px;
-    max-height: 74px;
+    width: 84px;
+    height: 84px;
+    max-width: 84px;
+    max-height: 84px;
   }
 }
