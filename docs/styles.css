@@ -1263,3 +1263,25 @@ html {
         opacity: 0.8;
     }
 }
+
+/* Header logo image sizing (new img-based logo) */
+#main-header .header-logo img {
+  width: 24px;
+  height: 24px;
+  max-width: 24px;
+  max-height: 24px;
+  object-fit: cover;
+  display: block;
+  border-radius: 9999px;
+  flex: 0 0 auto;
+}
+
+/* Slightly bigger on desktop */
+@media (min-width: 640px) {
+  #main-header .header-logo img {
+    width: 32px;
+    height: 32px;
+    max-width: 32px;
+    max-height: 32px;
+  }
+}
