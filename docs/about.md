@@ -36,10 +36,17 @@
 
 
 
-I'm a DPhil student in Machine Learning at the University of Oxford, focusing on AI Safety, Interpretability, and Multi-Agent Systems.
+I am a product leader specializing in AI-native platform innovation, mission-critical infrastructure, and domain-driven ecosystems engineered for global scalability.
+I excel at transforming complex platform challenges into intelligent, automated, and resilient systems that unlock business velocity, elevate developer experience, and reduce operational overhead in high-growth environments. 
 
-Previously, I was a Research Scientist Intern at Spotify and worked with the UK AI Security Institute (AISI) on their Bounty Programme investigating automated design of agentic systems. I was also the founding Research Scientist at Convergence (acquired by Salesforce), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users, and held senior engineering roles at Pynea and Artera, leading teams and shipping ML innovations.
+My core expertise encompasses Retrieval Augmented Generation (RAG), LangChain orchestration, Model Context Protocol (MCP), Agent-to-Agent (A2A) architectures, Deep Agents and multi-agent systems, empowering enterprises to advance beyond static platforms into intelligent, context-aware, automated ecosystems.
 
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
+I design AI products where autonomous agents collaborate, reason, and execute tasks across APIs, services, and data domains, thereby minimizing manual effort, enhancing time to insight, and transforming system reliability.
+
+I collaborate with engineering and platform teams to integrate AI copilots, multi-agent pipelines, and event-driven architectures into core services, ensuring platforms are self-diagnosing, self-optimizing, and self-healing. My approach emphasizes platform observability, developer efficiency, total cost of ownership (TCO) reduction, automation of repetitive operations, and AI-driven resiliency, enabling enterprises to scale without incurring exponential cost increases. 
+
+My leadership style combines deep technical fluency, disciplined execution, and empathetic cross-functional alignment. I cultivate strong relationships, eliminate ambiguity, and ensure that strategic platform decisions translate into measurable value through faster deployments, lower failure rates, reduced incident escalations, accelerated recovery, and significantly enhanced developer autonomy.
+
+I thrive in dynamic environments focused on modernizing legacy systems, unifying fragmented domains, operating at a global scale, and introducing next-generation platform intelligence via agentic automation and LLM-driven orchestration.
 
 P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
