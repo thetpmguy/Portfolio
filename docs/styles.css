@@ -523,6 +523,23 @@ body {
     background-color: var(--color-border);
 }
 
+.about-socials{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 0.5rem;
+
+  /* key changes */
+  flex-wrap: nowrap;          /* never go to next line */
+  overflow-x: auto;           /* if it doesn’t fit, scroll horizontally */
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
+}
+
+.about-socials a{
+  flex: 0 0 auto;             /* don’t shrink into weird shapes */
+}
+
 .about-header-content {
     display: flex;
     flex-direction: column;
