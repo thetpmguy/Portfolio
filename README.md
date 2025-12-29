@@ -1,14 +1,6 @@
 # Portfolio
 
-My personal portfolio website showcasing research in AI Safety and Machine Learning.
-
-**Live site:** [jrosser.co.uk](https://jrosseruk.github.io)
-
-## Preview
-
-![Portfolio Screenshot](docs/assets/screenshot.png)
-
-
+My personal portfolio website showcasing 
 ## Tech Stack
 
 - Vanilla HTML, CSS, JavaScript
@@ -25,7 +17,7 @@ python -m http.server 8000 -d docs/
 ## Structure
 
 - `docs/index.html` - Main page
-- `docs/*.md` - Content (about, publications, resume)
+- `docs/*.md` - Content (about, work, resume)
 - `docs/styles.css` - Styling
 - `docs/script.js` - Functionality
 
