@@ -1263,25 +1263,23 @@ html {
         opacity: 0.8;
     }
 }
-
-/* Header logo image sizing (new img-based logo) */
+/* Header logo image sizing (tune here) */
 #main-header .header-logo img {
-  width: 24px;
-  height: 24px;
-  max-width: 24px;
-  max-height: 24px;
+  width: 40px;
+  height: 40px;
+  max-width: 40px;
+  max-height: 40px;
   object-fit: cover;
   display: block;
   border-radius: 9999px;
   flex: 0 0 auto;
 }
 
-/* Slightly bigger on desktop */
 @media (min-width: 640px) {
   #main-header .header-logo img {
-    width: 32px;
-    height: 32px;
-    max-width: 32px;
-    max-height: 32px;
+    width: 56px;
+    height: 56px;
+    max-width: 56px;
+    max-height: 56px;
   }
 }
