@@ -9,7 +9,7 @@
         <h3 class="mywork-title">
             <a 
             <a href="https://github.com/thetpmguy/agent-compiler" class="mywork-link">
-            Agent Compiler:Design-time governance for AI agents (In-Progress) 
+            Agent Compiler:Design-time governance for AI agents
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
@@ -31,7 +31,7 @@
         <h3 class="mywork-title">
             <a 
             <a href="https://github.com/thetpmguy/Decision-Ledger-using-multi-agents" class="mywork-link">
-            Decision Ledger using multi-Agents (In-Progress) 
+            Decision Ledger using multi-Agents
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
