@@ -26,7 +26,7 @@
 
 <div class="mywork-card">
     <div class="mywork-image">
-        <img src="assets/.jpg" alt="Decision Ledger using multi-Agents mywork">
+        <img src="assets/Decision Ledger using multi-Agents.jpg" alt="Decision Ledger using multi-Agents mywork">
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
