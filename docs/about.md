@@ -1,5 +1,5 @@
 <div class="about-header">
-  <img src="assets/72AC7F7B-0435-4A29-8641-77DBCB5872FC.JPG" alt="Portrait of Rahi Kumar" class="about-avatar" width="160" height="160" loading="lazy" />
+  <img src="assets/profile.jpg" alt="Portrait of Rahi Kumar" class="about-avatar" width="160" height="160" loading="lazy" />
   <div class="about-header-content">
     <h1 class="title">Hi,I'm Rahi!</h1>
     <div class="about-socials">
