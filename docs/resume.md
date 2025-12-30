@@ -89,7 +89,8 @@
       <span class="timeline-role">Master of Technology Management</span>
       <span class="timeline-dates">2015 – 2016</span>
 </div>
-    <div class="timeline-meta"> GPA:3.9</div>
+       
+    <div class="timeline-meta"> USA • GPA:3.9</div>
   </div>
   
 <div class="timeline-item">
@@ -99,8 +100,8 @@
       <span class="timeline-role">Software Engineer </span>
       <span class="timeline-dates">2012 – 2015</span>
     </div>
-      <div class="timeline-meta"> USA</div>
-    <div class="timeline-meta">New York, USA</div>
+    
+<div class="timeline-meta">India • Contract </div>
     <div class="timeline-desc">Writing scripts in ‘javascript’ for modification and optimization of Shopping Feeds.</div>
   </div>
 
@@ -111,7 +112,7 @@
       <span class="timeline-role">Bachelor of Technology</span>
       <span class="timeline-dates">2008 – 2012</span>
 </div>
- <div class="timeline-meta"> USA</div>
+ <div class="timeline-meta"> India</div>
  
   </div>
 
