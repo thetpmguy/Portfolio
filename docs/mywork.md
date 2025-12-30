@@ -1,6 +1,5 @@
 # My Work
 
-## 2025
 
 <div class="mywork-card">
     <div class="mywork-image">
