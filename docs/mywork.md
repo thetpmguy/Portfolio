@@ -10,7 +10,7 @@
         <h3 class="mywork-title">
             <a 
             <a href="https://github.com/thetpmguy/agent-compiler" class="mywork-link">
-            Agent Compiler:Design-time governance for AI agents. 
+            Agent Compiler:Design-time governance for AI agents (In-Progress) 
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
