@@ -12,7 +12,7 @@
       <span class="timeline-dates">2024 – <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Vancouver, Canada</div>
-    <div class="timeline-desc">Building AI Platform.</div>
+    <div class="timeline-desc">Building AI Platform using deep agents.</div>
   </div>
 
   <div class="timeline-item">
@@ -23,7 +23,7 @@
       <span class="timeline-dates">2023 – 2024</span>
     </div>
     <div class="timeline-meta">Vancouver, Canada</div>
-    <div class="timeline-desc">Building AI Platform.</div>
+    <div class="timeline-desc">Built multi-agent AI Platform.</div>
   </div>
 
   <div class="timeline-item">
@@ -34,7 +34,7 @@
       <span class="timeline-dates">2022 – 2023</span>
     </div>
     <div class="timeline-meta">Vancouver, Canada</div>
-    <div class="timeline-desc">Exploring automation and collaboration with web agents.</div>
+    <div class="timeline-desc">Explored automation with agents.</div>
   </div>
 
   <div class="timeline-item">
@@ -45,7 +45,7 @@
       <span class="timeline-dates">2021 – 2022</span>
     </div>
     <div class="timeline-meta">Vancouver, Canada</div>
-    <div class="timeline-desc">Exploring AI automation.</div>
+    <div class="timeline-desc">Explored AI automation.</div>
   </div>
 
   <div class="timeline-item">
@@ -56,7 +56,7 @@
       <span class="timeline-dates">2020 – 2021</span>
     </div>
     <div class="timeline-meta">San Francisco, USA</div>
-    <div class="timeline-desc">Building Incident Management Platform And Client Partner to Pacific Gas and Electric.</div>
+    <div class="timeline-desc">Built Incident Management Platform and was Client Partner to Pacific Gas and Electric.</div>
   </div>
 
   <div class="timeline-item">
@@ -67,7 +67,7 @@
       <span class="timeline-dates">2018 – 2020</span>
     </div>
     <div class="timeline-meta">New Jersey, USA</div>
-    <div class="timeline-desc">Leading the engineering team and developing foundational retail integrations.</div>
+    <div class="timeline-desc">Led the engineering team and developed foundational retail integrations and infrstructure.</div>
   </div>
 
 
@@ -79,7 +79,7 @@
       <span class="timeline-dates">2016 – 2018</span>
     </div>
     <div class="timeline-meta">New York, USA</div>
-    <div class="timeline-desc">Leading the engineering team and developing foundational Developer Platform.</div>
+    <div class="timeline-desc">Led the engineering team and developed foundational Developer Platform.</div>
   </div>
 
   <div class="timeline-item">
@@ -102,7 +102,7 @@
     </div>
     
 <div class="timeline-meta">India • Contract </div>
-    <div class="timeline-desc">Writing scripts in ‘javascript’ for modification and optimization of Shopping Feeds.</div>
+    <div class="timeline-desc">Wrote scripts in ‘javascript’ for modification and optimization of Shopping Feeds.</div>
   </div>
 
  <div class="timeline-item">
