@@ -45,7 +45,7 @@ Product leader who cares as deeply about people as I do about platforms. I build
 
 I focus on turning complex and high pressure platform challenges into intelligent, resilient, and automated systems that work in the real world. My goal is to help teams move from constant firefighting to clarity, confidence, and momentum so they can focus on meaningful work instead of day to day survival.
 
-My work lives at the intersection of AI and platform engineering. I have led initiatives across Retrieval Augmented Generation, LangChain orchestration, Model Context Protocol, agent to agent architectures,Deep agents and multi agent systems. In practice, this means designing context aware ecosystems where systems can reason, collaborate, and support human decision making rather than simply react.
+My work lives at the intersection of AI, business and platform engineering. I have led initiatives across Retrieval Augmented Generation, LangChain orchestration, Model Context Protocol, agent to agent architectures,Deep agents and multi agent systems. In practice, this means designing context aware ecosystems where systems can reason, collaborate, and support human decision making rather than simply react.
 
 I design AI products where autonomous agents work across APIs, services, and data domains to reduce manual effort, operational stress, and system fragility. The goal is not automation for its own sake, but platforms that quietly absorb complexity so people can do their best work.
 
