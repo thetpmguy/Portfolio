@@ -260,7 +260,7 @@ class LazyImageLoader {
 // Markdown content loader
 class MarkdownLoader {
     constructor() {
-        this.sections = ['about', 'news', 'mywork', 'resume'];
+        this.sections = ['about', 'news', 'mywork', 'resume', 'education'];
         this.init();
     }
 
