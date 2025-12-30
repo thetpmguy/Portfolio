@@ -34,7 +34,7 @@
       <span class="timeline-dates">2022 – 2023</span>
     </div>
     <div class="timeline-meta">Vancouver, Canada</div>
-    <div class="timeline-desc">Explored automation with agents.</div>
+    <div class="timeline-desc">Built SaaS product from 0 to 1.</div>
   </div>
 
   <div class="timeline-item">
@@ -45,7 +45,7 @@
       <span class="timeline-dates">2021 – 2022</span>
     </div>
     <div class="timeline-meta">Vancouver, Canada</div>
-    <div class="timeline-desc">Explored AI automation.</div>
+    <div class="timeline-desc">Built SaaS product from 0 to 1.</div>
   </div>
 
   <div class="timeline-item">
