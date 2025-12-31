@@ -41,7 +41,7 @@
 
 
 
-Product leader who cares as deeply about people as I do about platforms. I build AI native platforms that sit at the heart of a business, scale globally, and still feel human. I build systems that can reason over time, make decisions, and reduce human dependency.
+AI leader who cares as deeply about people as I do about platforms. I build AI native platforms that sit at the heart of a business, scale globally, and still feel human. I build systems that can reason over time, make decisions, and reduce human dependency.
 
 I focus on turning complex and high pressure platform challenges into intelligent, resilient, and automated systems that work in the real world. My goal is to help teams move from constant firefighting to clarity, confidence, and momentum so they can focus on meaningful work instead of day to day survival.
 
