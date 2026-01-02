@@ -43,9 +43,9 @@
 
 AI leader who cares as deeply about people as platforms. I build AI-native platforms that sit at the core of a business, scale globally, and still feel human systems that reason over time, support decisions, and reduce unnecessary human dependency.
 
-My work focuses on turning complex, high-pressure platform challenges into intelligent, resilient systems that move teams from constant firefighting to clarity and momentum. I operate at the intersection of AI, platform engineering, and business, leading initiatives across RAG, agent architectures, LangChain orchestration, MCP, and multi-agent systems to create context-aware ecosystems that support human decision making.
+My work focuses on turning complex, high pressure platform challenges into intelligent, resilient systems that move teams from constant firefighting to clarity and momentum. I operate at the intersection of AI, platform engineering, and business, leading initiatives across RAG, agent architectures, LangChain orchestration, MCP, and multi-agent systems to create context-aware ecosystems that support human decision making.
 
-I design autonomous, agent-driven platforms that work across APIs, services, and data domains—not automation for its own sake, but systems that quietly absorb complexity so people can do their best work. I partner closely with engineering and business teams, with a strong emphasis on observability, developer experience, and operational simplicity.
+I design autonomous, agent-driven platforms that work across APIs, services, and data domains not automation for its own sake, but systems that quietly absorb complexity so people can do their best work. I partner closely with engineering and business teams, with a strong emphasis on observability, experience, and operational simplicity.
 
 As a leader, I prioritize culture and trust. I measure success not just by faster delivery and fewer incidents, but by team confidence, autonomy, and long-term sustainability.
 
