@@ -57,7 +57,7 @@
    <div class="mywork-authors">Rahi Kumar</div>
  <div class="mywork-tags">
             <a href="https://github.com/thetpmguy/rag-as-a-service" class="tag tag-github">GITHUB</a>
-     <a href="https://thetpmstory.substack.com/p/how-rag-actually-works-and-the-rag" class="tag tag-github">Subtsack</a>
+     <a href="https://thetpmstory.substack.com/p/how-rag-actually-works-and-the-rag" class="tag tag-github">SUBSTACK</a>
         </div>
     </div>
 </div>
