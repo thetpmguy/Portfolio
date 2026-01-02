@@ -13,8 +13,7 @@
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
-        <div class="mywork-year">2025</div>
-        <div class="mywork-tags">
+    <div class="mywork-tags">
             <a href="https://github.com/thetpmguy/agent-compiler" class="tag tag-github">GITHUB</a>
         </div>
     </div>
@@ -35,9 +34,30 @@
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
-        <div class="mywork-year">2025</div>
-        <div class="mywork-tags">
+      <div class="mywork-tags">
             <a href="https://github.com/thetpmguy/agent-compiler" class="tag tag-github">GITHUB</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="mywork-card">
+    <div class="mywork-image">
+        <img src="assets/ragasaservice.jpg" alt="ragasaservice mywork">
+    </div>
+    <div class="mywork-content">
+        <h3 class="mywork-title">
+            <a 
+            <a href="https://github.com/thetpmguy/rag-as-a-service" class="mywork-link">
+            RAG as a Service
+            </a>
+        </h3>
+   <div class="mywork-authors">Rahi Kumar</div>
+ <div class="mywork-tags">
+            <a href="https://github.com/thetpmguy/rag-as-a-service" class="tag tag-github">GITHUB</a>
+     <a href="https://thetpmstory.substack.com/p/how-rag-actually-works-and-the-rag" class="tag tag-github">Subtsack</a>
         </div>
     </div>
 </div>
