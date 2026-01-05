@@ -68,13 +68,13 @@
     <div class="mywork-content">
         <h3 class="mywork-title">
             <a 
-            <a href="https://github.com/thetpmguy/Decision-Ledger-using-multi-agents" class="mywork-link">
-            Decision Ledger using multi-Agents
+            <a href="https://github.com/thetpmguy/Decision-Ledger" class="mywork-link">
+            Decision Ledger
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
       <div class="mywork-tags">
-            <a href="https://github.com/thetpmguy/agent-compiler" class="tag tag-github">GITHUB</a>
+            <a href="https://github.com/thetpmguy/Decision-Ledger" class="tag tag-github">GITHUB</a>
         </div>
     </div>
 </div>
