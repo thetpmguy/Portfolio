@@ -6,7 +6,6 @@
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
-            <a 
             <a href="https://github.com/thetpmguy/DecisionsOps-using-Multi-agent-Rag-and-finetuning" class="mywork-link">
             A practical multi-agent system that turns scattered company knowledge into clear, explainable decisions
             </a>
@@ -26,9 +25,8 @@
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
-            <a 
             <a href="https://github.com/thetpmguy/rag-as-a-service" class="mywork-link">
-            RAG as a Service
+            Turn scattered information into clear decisions
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
@@ -46,7 +44,6 @@
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
-            <a 
             <a href="https://github.com/thetpmguy/agent-compiler" class="mywork-link">
             Agent Compiler:Design-time governance for AI agents
             </a>
@@ -67,9 +64,8 @@
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
-            <a 
             <a href="https://github.com/thetpmguy/Decision-Ledger" class="mywork-link">
-            Decision Ledger
+            Capturing the Why Behind Decisions
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
