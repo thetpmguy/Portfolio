@@ -93,7 +93,7 @@
     </div>
     
 <div class="timeline-meta">India • Contract </div>
-    <div class="timeline-desc">Wrote scripts in ‘javascript’ for modification and optimization of Shopping Feeds.</div>
+    <div class="timeline-desc">Wrote scripts in ‘javascript & Python’ for modification and optimization of Shopping Feeds.</div>
   </div>
 
  
