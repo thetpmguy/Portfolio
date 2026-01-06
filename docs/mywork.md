@@ -2,7 +2,7 @@
 
 <div class="mywork-card">
     <div class="mywork-image">
-        <img src="assets/ops.jpg" alt="ops mywork">
+        <img src="assets/workcard 1.jpg" alt="workcard 1 mywork">
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
@@ -21,7 +21,7 @@
 
 <div class="mywork-card">
     <div class="mywork-image">
-        <img src="assets/ragasaservice.jpg" alt="ragasaservice mywork">
+        <img src="assets/workcard 2.jpg" alt="workcard 2 mywork">
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
@@ -40,7 +40,7 @@
 
 <div class="mywork-card">
     <div class="mywork-image">
-        <img src="assets/agentcompiler.jpg" alt="agentcompiler mywork">
+        <img src="assets/workcard 3.jpg" alt="workcard 3 mywork">
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
@@ -60,7 +60,7 @@
 
 <div class="mywork-card">
     <div class="mywork-image">
-        <img src="assets/Decision Ledger using multi-Agents.jpg" alt="Decision Ledger using multi-Agents mywork">
+        <img src="assets/workcard 4.jpg" alt="workcard 4 mywork">
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
