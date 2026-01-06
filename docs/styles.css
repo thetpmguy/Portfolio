@@ -51,7 +51,7 @@ body {
 /* Responsive body padding */
 @media (max-width: 640px) {
     body {
-        padding-top: 5rem; /* Reduced padding on mobile */
+        padding-top: 7rem; /* Increased to account for header with subtitle */
     }
 }
 
@@ -716,7 +716,7 @@ button:focus-visible {
 
 @media (max-width: 640px) {
     :target {
-        scroll-margin-top: 5rem; /* Reduced for mobile */
+        scroll-margin-top: 7rem; /* Increased to account for header with subtitle */
     }
 }
 
@@ -854,9 +854,9 @@ button:focus-visible {
         max-height: 48px !important;
     }
 
-    /* Reduce first section top padding to avoid excessive gap under fixed header */
+    /* Remove extra padding from about section on mobile - body padding handles spacing */
     #about {
-        padding-top: 1rem !important;
+        padding-top: 0 !important;
     }
     
     /* Better logo visibility and size */
