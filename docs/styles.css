@@ -51,7 +51,7 @@ body {
 /* Responsive body padding */
 @media (max-width: 640px) {
     body {
-        padding-top: 7rem; /* Increased to account for header with subtitle */
+        padding-top: 8.5rem; /* Increased to account for header with subtitle */
     }
 }
 
@@ -584,7 +584,7 @@ body {
     .about-avatar {
         width: 88px;
         height: 88px;
-        margin-top: 1.5rem; /* Add padding above the avatar on mobile */
+        margin-top: 2.5rem; /* Increased padding above the avatar on mobile to account for taller header */
     }
     .about-header-content {
         align-items: center;
@@ -716,7 +716,7 @@ button:focus-visible {
 
 @media (max-width: 640px) {
     :target {
-        scroll-margin-top: 7rem; /* Increased to account for header with subtitle */
+        scroll-margin-top: 8.5rem; /* Increased to account for header with subtitle */
     }
 }
 
