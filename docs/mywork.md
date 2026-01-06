@@ -51,6 +51,7 @@
    <div class="mywork-authors">Rahi Kumar</div>
     <div class="mywork-tags">
             <a href="https://github.com/thetpmguy/agent-compiler" class="tag tag-github">GITHUB</a>
+            <a href="https://thetpmstory.substack.com/p/what-agent-compiler-is-like-youre" class="tag tag-github">SUBSTACK</a>
         </div>
     </div>
 </div>
