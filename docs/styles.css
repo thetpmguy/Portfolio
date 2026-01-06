@@ -798,7 +798,7 @@ button:focus-visible {
     }
     .header-subtitle {
         font-size: 0.625rem;
-        line-height: 1.1;
+        line-height: 1.3;
         max-width: 100%;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -806,7 +806,7 @@ button:focus-visible {
         display: -webkit-box;
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;
-        max-height: 1.4em;
+        max-height: 2.6em; /* Allow for 2 lines with line-height 1.3 */
     }
     .header-nav { display: none; }
 
@@ -841,9 +841,9 @@ button:focus-visible {
     
     /* Improved header spacing on mobile */
     #main-header {
-        /* Keep fixed positioning - only adjust padding */
-        padding: 0.75rem 1rem 0.75rem 1rem;
-        /* Remove margin-bottom since fixed headers don't need margin */
+        /* Keep fixed positioning - increase padding to accommodate subtitle */
+        padding: 0.75rem 1rem 1rem 1rem;
+        /* Increased bottom padding to give subtitle more space */
     }
     
     /* Ensure logo doesn't get cropped on mobile - override desktop sizing */
