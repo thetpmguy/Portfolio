@@ -307,6 +307,11 @@ body {
     #main-header {
         padding: 1rem 2rem 0.5rem 2rem; /* Match main content sm:px-8 */
     }
+    
+    /* Add spacing between header nav and about section on desktop */
+    #about {
+        padding-top: 2rem !important;
+    }
 }
 
 .group:hover .grayscale {
@@ -857,13 +862,6 @@ button:focus-visible {
     /* Remove extra padding from about section on mobile - body padding handles spacing */
     #about {
         padding-top: 0 !important;
-    }
-    
-    /* Add spacing between header nav and about section on desktop */
-    @media (min-width: 640px) {
-        #about {
-            margin-top: 1.5rem;
-        }
     }
     
     /* Better logo visibility and size */
