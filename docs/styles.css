@@ -859,6 +859,13 @@ button:focus-visible {
         padding-top: 0 !important;
     }
     
+    /* Add spacing between header nav and about section on desktop */
+    @media (min-width: 640px) {
+        #about {
+            margin-top: 1.5rem;
+        }
+    }
+    
     /* Better logo visibility and size */
     #main-header svg {
         filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
