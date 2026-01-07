@@ -1480,33 +1480,66 @@ html {
 
 /* Print styles */
 @media print {
-  /* Fix header for print - make it static and prevent stretching */
+  /* Fix header for print - make it static, compact, and prevent stretching */
   #main-header {
     position: static !important;
     transform: none !important;
     left: auto !important;
     width: 100% !important;
     max-width: 100% !important;
-    padding: 1rem !important;
+    padding: 0.5rem 1rem !important;
     page-break-inside: avoid;
     border-bottom: 1px solid #000;
     background: white !important;
+    margin-bottom: 0.5rem !important;
   }
 
-  /* Keep header grid but prevent stretching */
+  /* Make header logo smaller for print */
+  #main-header .header-logo img {
+    width: 48px !important;
+    height: 48px !important;
+    max-width: 48px !important;
+    max-height: 48px !important;
+  }
+
+  /* Keep header grid but make it more compact */
   .header-grid {
-    grid-template-columns: auto 1fr auto !important;
-    gap: 0.75rem !important;
+    grid-template-columns: auto 1fr !important;
+    grid-template-rows: auto auto !important;
+    gap: 0.25rem 0.5rem !important;
   }
 
+  /* Make title smaller and more compact */
+  .header-title {
+    font-size: 1rem !important;
+  }
+
+  .header-title .text-2xl,
+  .header-title .text-3xl {
+    font-size: 1.25rem !important;
+    line-height: 1.2 !important;
+  }
+
+  /* Hide or minimize subtitle in print */
+  .header-subtitle {
+    font-size: 0.625rem !important;
+    line-height: 1.2 !important;
+    margin-top: 0.125rem !important;
+    display: none !important; /* Hide subtitle to save space */
+  }
+
+  /* Make navigation more compact */
   .header-nav {
     margin-left: 0 !important;
+    margin-top: 0.25rem !important;
     flex-wrap: wrap !important;
+    gap: 0 !important;
   }
 
   .header-nav > a {
-    font-size: 0.75rem !important;
-    padding: 0.125rem 0.5rem !important;
+    font-size: 0.7rem !important;
+    padding: 0.125rem 0.375rem !important;
+    line-height: 1.2 !important;
   }
 
   /* Hide interactive controls */
@@ -1517,18 +1550,53 @@ html {
   /* Fix body padding for print */
   body {
     padding-top: 0 !important;
+    margin: 0 !important;
   }
 
-  /* Ensure about image doesn't get cropped - keep it circular and visible */
+  /* Reduce main content padding */
+  main {
+    padding-top: 0.5rem !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  /* Reduce about section spacing */
+  #about {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    margin-bottom: 1rem !important;
+  }
+
+  /* Make about header more compact */
+  .about-header {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.75rem !important;
+    gap: 0.75rem !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Make about avatar slightly smaller for print */
   .about-avatar {
+    width: 100px !important;
+    height: 100px !important;
     object-fit: cover !important;
     page-break-inside: avoid;
     break-inside: avoid;
   }
 
-  .about-header {
-    page-break-inside: avoid;
-    break-inside: avoid;
+  /* Reduce prose spacing */
+  .prose {
+    margin-top: 0 !important;
+  }
+
+  .prose h1 {
+    margin-top: 0.5rem !important;
+    font-size: 1.5rem !important;
+  }
+
+  .prose p {
+    margin-bottom: 0.75rem !important;
   }
 
   /* Prevent images from being cut off at page breaks - but keep their aspect ratios */
@@ -1549,9 +1617,18 @@ html {
     color: #000 !important;
   }
 
-  /* Ensure proper page breaks */
+  /* Reduce section spacing */
   section {
+    margin-bottom: 1.5rem !important;
     page-break-inside: avoid;
     break-inside: avoid;
+  }
+
+  /* Reduce footer spacing */
+  footer,
+  .mx-auto.max-w-3xl.px-4,
+  .mx-auto.max-w-3xl.px-8 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
   }
 }
