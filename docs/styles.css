@@ -1477,3 +1477,119 @@ html {
     max-height: 84px;
   }
 }
+
+/* Print styles */
+@media print {
+  /* Fix header for print - make it static and prevent stretching */
+  #main-header {
+    position: static !important;
+    transform: none !important;
+    left: auto !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 1rem !important;
+    page-break-inside: avoid;
+    border-bottom: 1px solid #000;
+  }
+
+  /* Prevent header grid from stretching */
+  .header-grid {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    gap: 0.5rem !important;
+  }
+
+  .header-title {
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+  }
+
+  .header-nav {
+    width: 100% !important;
+    margin-top: 0.5rem !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 0.5rem !important;
+  }
+
+  .header-nav > a {
+    padding: 0.25rem 0.5rem !important;
+    border-left: 1px solid #000 !important;
+    font-size: 0.875rem !important;
+  }
+
+  .header-controls {
+    display: none !important; /* Hide theme toggle and menu button in print */
+  }
+
+  /* Fix body padding for print */
+  body {
+    padding-top: 0 !important;
+  }
+
+  /* Ensure about image doesn't get cropped */
+  .about-avatar {
+    width: 120px !important;
+    height: 120px !important;
+    max-width: 120px !important;
+    max-height: 120px !important;
+    object-fit: contain !important;
+    page-break-inside: avoid;
+  }
+
+  .about-header {
+    page-break-inside: avoid;
+    margin-bottom: 1rem !important;
+  }
+
+  /* Prevent images from being cut off at page breaks */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+    page-break-inside: avoid;
+  }
+
+  /* Ensure content doesn't get cut off */
+  .prose {
+    page-break-inside: avoid;
+  }
+
+  section {
+    page-break-inside: avoid;
+  }
+
+  /* Hide interactive elements that don't make sense in print */
+  #theme-toggle,
+  #toggle-navigation-menu {
+    display: none !important;
+  }
+
+  /* Ensure proper spacing in print */
+  main {
+    max-width: 100% !important;
+    padding: 0 1rem !important;
+  }
+
+  /* Make sure links are visible in print */
+  a {
+    color: #000 !important;
+    text-decoration: underline !important;
+  }
+
+  /* Adjust colors for print (black and white friendly) */
+  .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+    color: #000 !important;
+  }
+
+  .prose strong {
+    color: #000 !important;
+  }
+
+  /* Ensure cards and sections print well */
+  .mywork-card,
+  .project-card {
+    page-break-inside: avoid;
+    border: 1px solid #000 !important;
+  }
+}
