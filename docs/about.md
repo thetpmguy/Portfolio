@@ -40,13 +40,10 @@
 </div>
 
 
+AI leader who cares as deeply about people as platforms. I build AI native systems at the core of a business—platforms that scale globally, reason over time, support better decisions, and reduce unnecessary human toil while still feeling human.
 
-AI leader who cares as deeply about people as platforms. I build AI-native platforms that sit at the core of a business, scale globally, and still feel human systems that reason over time, support decisions, and reduce unnecessary human dependency.
+My work turns complex, high-pressure platform challenges into resilient, intelligent systems that move teams from constant firefighting to clarity and momentum. I operate at the intersection of AI, platform engineering, and business, designing agent-driven platforms that absorb complexity across APIs, services, and data so people can focus on what matters most.
 
-My work focuses on turning complex, high pressure platform challenges into intelligent, resilient systems that move teams from constant firefighting to clarity and momentum. I operate at the intersection of AI, platform engineering, and business, leading initiatives across RAG, agent architectures, LangChain orchestration, MCP, and multi-agent systems to create context-aware ecosystems that support human decision making.
-
-I design autonomous, agent-driven platforms that work across APIs, services, and data domains not automation for its own sake, but systems that quietly absorb complexity so people can do their best work. I partner closely with engineering and business teams, with a strong emphasis on observability, experience, and operational simplicity.
-
-As a leader, I prioritize culture and trust. I measure success not just by faster delivery and fewer incidents, but by team confidence, autonomy, and long-term sustainability.
+As a leader, I prioritize culture and trust. I measure success not just by speed or reliability, but by team confidence, autonomy, and long-term sustainability.
 
 P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
