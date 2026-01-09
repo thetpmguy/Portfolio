@@ -51,7 +51,7 @@ body {
 /* Responsive body padding */
 @media (max-width: 640px) {
     body {
-        padding-top: 9rem; /* Increased to account for header with full subtitle visible */
+        padding-top: 7rem; /* Reduced gap for better mobile spacing */
     }
 }
 
@@ -587,11 +587,12 @@ body {
         flex-direction: column;
         align-items: center;
         text-align: center;
+        margin-top: 0.5rem; /* Reduced top margin for tighter spacing */
     }
     .about-avatar {
         width: 88px;
         height: 88px;
-        margin-top: 2.5rem; /* Increased padding above the avatar on mobile to account for taller header */
+        margin-top: 0.5rem; /* Reduced margin for tighter spacing on mobile */
     }
     .about-header-content {
         align-items: center;
