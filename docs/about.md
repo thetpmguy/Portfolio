@@ -39,8 +39,9 @@
   </div>
 </div>
 
+**Building AI Harness, Agentic AI, Deep Agents, Multi-Agents and AI automation using LangChain, LangSmith,LangGraph, Arize AI n8n & Leading Authentic “ground up” Team Culture**
 
-AI leader who cares as deeply about people as platforms. I build AI native systems at the core of a business—platforms that scale globally, reason over time, support better decisions, and reduce unnecessary human toil while still feeling human.
+I'm an AI leader who cares as deeply about people as platforms. I build AI native systems at the core of a business—platforms that scale globally, reason over time, support better decisions, and reduce unnecessary human toil while still feeling human.
 
 My work turns complex, high-pressure platform challenges into resilient, intelligent systems that move teams from constant firefighting to clarity and momentum. I operate at the intersection of AI, platform engineering, and business, designing agent-driven platforms that absorb complexity across APIs, services, and data so people can focus on what matters most.
 
