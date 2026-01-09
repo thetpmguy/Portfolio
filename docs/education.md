@@ -5,6 +5,7 @@ Bachelor of Technology, Amity University, India
 
 ## Certifications
 - [LangChain Academy Deep Agents Certification](https://thetpmstory.substack.com/p/what-i-learned-in-the-deep-agents)
+- [Agent Mastery with Arize AI](https://thetpmstory.substack.com/p/agent-engineering-is-the-easy-part)
 - n8n Course Level 1
 - Machine Learning for Business Professionals
 - Become a Chief of Staff with Brian Rumao
