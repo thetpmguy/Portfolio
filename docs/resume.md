@@ -8,7 +8,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Arcteryx</span>
-      <span class="timeline-role">AI Management</span>
+      <span class="timeline-role">AI & Platform Engineering</span>
       <span class="timeline-dates">2024 – <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Vancouver, Canada</div>
@@ -19,7 +19,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Lululemon</span>
-      <span class="timeline-role">AI Management</span>
+      <span class="timeline-role">AI & Platform Engineering</span>
       <span class="timeline-dates">2023 – 2024</span>
     </div>
     <div class="timeline-meta">Vancouver, Canada</div>
