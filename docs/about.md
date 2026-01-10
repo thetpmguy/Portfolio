@@ -39,7 +39,7 @@
   </div>
 </div>
 
-**Currently Building AI Harness, Agentic AI, Deep Agents, Multi-Agents and AI automation using LangChain, LangSmith,LangGraph, Arize AI n8n & Leading Authentic “ground up” Team Culture**
+**Currently Building AI Harness, Agentic AI, Deep Agents, Multi-Agents and AI automation using LangChain, LangSmith,LangGraph, Arize AI, n8n & Leading Authentic “ground up” Team Culture**
 
 I'm a Pragmatic leader who cares as deeply about people as platforms. I build AI native systems at the core of a business—platforms that scale globally, reason over time, support better decisions, and reduce unnecessary human toil while still feeling human.
 
