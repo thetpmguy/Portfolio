@@ -92,7 +92,7 @@
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
-      <div class="mywork-tags">
+ <div class="mywork-tags">
             <a href="https://github.com/thetpmguy/wikiverify" class="tag tag-github">GITHUB</a>
         </div>
     </div>
@@ -111,9 +111,9 @@
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
-      <div class="mywork-tags">
+ <div class="mywork-tags">
             <a href="https://github.com/thetpmguy/AI-Driven-Engineering-Cognition-at-Scale" class="tag tag-github">GITHUB</a>
-            <a href="https://thetpmstory.substack.com/p/how-to-actually-increase-developer" class="tag tag-github">SUBSTACK</a>
+     <a href="https://thetpmstory.substack.com/p/how-to-actually-increase-developer" class="tag tag-github">SUBSTACK</a>
         </div>
     </div>
 </div>
