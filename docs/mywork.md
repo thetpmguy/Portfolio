@@ -106,7 +106,7 @@
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
-            <a href="https://thetpmstory.substack.com/p/how-to-actually-increase-developer" class="mywork-link">
+            <a href="https://github.com/thetpmguy/AI-Driven-Engineering-Cognition-at-Scale" class="mywork-link">
             AI Driven Engineering Cognition At Scale
             </a>
         </h3>
