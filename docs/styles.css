@@ -1066,7 +1066,8 @@ html {
 .mywork-card:has(.mywork-title a[href*="agent-compiler"]) .mywork-title,
 .mywork-card:has(.mywork-title a[href*="rag-as-a-service"]) .mywork-title,
 .mywork-card:has(.mywork-title a[href*="Decision-Ledger"]) .mywork-title,
-.mywork-card:has(.mywork-title a[href*="wikiverify"]) .mywork-title {
+.mywork-card:has(.mywork-title a[href*="wikiverify"]) .mywork-title,
+.mywork-card:has(.mywork-title a[href*="AI-Driven-Engineering-Cognition-at-Scale"]) .mywork-title {
     font-size: clamp(0.6875rem, 1.8vw, 0.875rem);
     line-height: 1.35;
     word-wrap: break-word;
@@ -1078,7 +1079,8 @@ html {
 .mywork-title a[href*="agent-compiler"],
 .mywork-title a[href*="rag-as-a-service"],
 .mywork-title a[href*="Decision-Ledger"],
-.mywork-title a[href*="wikiverify"] {
+.mywork-title a[href*="wikiverify"],
+.mywork-title a[href*="AI-Driven-Engineering-Cognition-at-Scale"] {
     font-size: clamp(0.6875rem, 1.8vw, 0.875rem);
     line-height: 1.35;
     word-wrap: break-word;
@@ -1240,7 +1242,8 @@ html {
     .mywork-card:has(.mywork-title a[href*="agent-compiler"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="rag-as-a-service"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="Decision-Ledger"]) .mywork-title,
-    .mywork-card:has(.mywork-title a[href*="wikiverify"]) .mywork-title {
+    .mywork-card:has(.mywork-title a[href*="wikiverify"]) .mywork-title,
+    .mywork-card:has(.mywork-title a[href*="AI-Driven-Engineering-Cognition-at-Scale"]) .mywork-title {
         font-size: clamp(0.75rem, 2.5vw, 0.875rem);
     }
 }
@@ -1267,7 +1270,8 @@ html {
     .mywork-card:has(.mywork-title a[href*="agent-compiler"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="rag-as-a-service"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="Decision-Ledger"]) .mywork-title,
-    .mywork-card:has(.mywork-title a[href*="wikiverify"]) .mywork-title {
+    .mywork-card:has(.mywork-title a[href*="wikiverify"]) .mywork-title,
+    .mywork-card:has(.mywork-title a[href*="AI-Driven-Engineering-Cognition-at-Scale"]) .mywork-title {
         font-size: clamp(0.6875rem, 2.5vw, 0.8125rem);
     }
     
