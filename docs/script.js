@@ -726,3 +726,88 @@ prefersReducedMotion.addEventListener('change', () => {
         document.documentElement.style.setProperty('scroll-behavior', 'smooth');
     }
 });
+
+// Service Worker Registration for Caching
+class ServiceWorkerManager {
+    constructor() {
+        this.init();
+    }
+
+    init() {
+        // Check if service workers are supported
+        if ('serviceWorker' in navigator) {
+            // Register service worker after page loads
+            window.addEventListener('load', () => {
+                this.registerServiceWorker();
+            });
+        } else {
+            console.log('[Service Worker] Not supported in this browser');
+        }
+    }
+
+    async registerServiceWorker() {
+        try {
+            const registration = await navigator.serviceWorker.register('/service-worker.js', {
+                scope: '/'
+            });
+            
+            console.log('[Service Worker] Registered successfully:', registration.scope);
+
+            // Check for updates periodically
+            setInterval(() => {
+                registration.update();
+            }, 60 * 60 * 1000); // Check every hour
+
+            // Handle service worker updates
+            registration.addEventListener('updatefound', () => {
+                const newWorker = registration.installing;
+                
+                newWorker.addEventListener('statechange', () => {
+                    if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                        // New service worker available
+                        console.log('[Service Worker] New version available');
+                        // Optionally notify user or auto-update
+                        this.notifyUpdateAvailable(newWorker);
+                    }
+                });
+            });
+
+            // Handle controller change (when new service worker takes control)
+            navigator.serviceWorker.addEventListener('controllerchange', () => {
+                console.log('[Service Worker] New version activated');
+                // Optionally reload page to get new version
+                // window.location.reload();
+            });
+
+        } catch (error) {
+            console.error('[Service Worker] Registration failed:', error);
+        }
+    }
+
+    notifyUpdateAvailable(newWorker) {
+        // You can add a UI notification here if desired
+        // For now, just log it
+        console.log('[Service Worker] Update available. Reload to get the latest version.');
+        
+        // Auto-update after 5 seconds (optional)
+        // setTimeout(() => {
+        //     newWorker.postMessage({ type: 'SKIP_WAITING' });
+        //     window.location.reload();
+        // }, 5000);
+    }
+
+    async clearCache() {
+        if ('caches' in window) {
+            const cacheNames = await caches.keys();
+            await Promise.all(
+                cacheNames.map(cacheName => caches.delete(cacheName))
+            );
+            console.log('[Service Worker] Cache cleared');
+        }
+    }
+}
+
+// Initialize service worker manager
+if ('serviceWorker' in navigator) {
+    new ServiceWorkerManager();
+}
