@@ -11,14 +11,14 @@
     </div>
     <div class="mywork-content">
         <h3 class="mywork-title">
-            <a href="https://github.com/thetpmguy/DecisionsOps-using-Multi-agent-Rag-and-finetuning" class="mywork-link">
+            <a href="https://www.zynkkk.com" class="mywork-link">
             A practical multi-agent system that turns scattered company knowledge into clear, explainable decisions
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
  <div class="mywork-tags">
-            <a href="https://github.com/thetpmguy/DecisionsOps-using-Multi-agent-Rag-and-finetuning" class="tag tag-github">GITHUB</a>
-     <a href="https://thetpmstory.substack.com/p/a-practical-multi-agent-system-that" class="tag tag-github">SUBSTACK</a>
+            <a href="https://www.linkedin.com/company/zynkkk" class="tag tag-github">LINKEDIN</a>
+     <a href="https://www.zynkkk.com" class="tag tag-github">WEBSITE</a>
         </div>
     </div>
 </div>
