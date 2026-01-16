@@ -1062,7 +1062,7 @@ html {
 }
 
 /* Use smaller font for cards with longer titles - target by URL pattern */
-.mywork-card:has(.mywork-title a[href*="DecisionsOps"]) .mywork-title,
+.mywork-card:has(.mywork-title a[href*="zynkkk"]) .mywork-title,
 .mywork-card:has(.mywork-title a[href*="agent-compiler"]) .mywork-title,
 .mywork-card:has(.mywork-title a[href*="rag-as-a-service"]) .mywork-title,
 .mywork-card:has(.mywork-title a[href*="Decision-Ledger"]) .mywork-title,
@@ -1075,7 +1075,7 @@ html {
 }
 
 /* Fallback for browsers that don't support :has() - target links directly */
-.mywork-title a[href*="DecisionsOps"],
+.mywork-title a[href*="zynkkk"],
 .mywork-title a[href*="agent-compiler"],
 .mywork-title a[href*="rag-as-a-service"],
 .mywork-title a[href*="Decision-Ledger"],
@@ -1238,7 +1238,7 @@ html {
         line-height: 1.3;
     }
     
-    .mywork-card:has(.mywork-title a[href*="DecisionsOps"]) .mywork-title,
+    .mywork-card:has(.mywork-title a[href*="zynkkk"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="agent-compiler"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="rag-as-a-service"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="Decision-Ledger"]) .mywork-title,
@@ -1266,7 +1266,7 @@ html {
         font-size: clamp(0.75rem, 3vw, 0.9375rem);
     }
     
-    .mywork-card:has(.mywork-title a[href*="DecisionsOps"]) .mywork-title,
+    .mywork-card:has(.mywork-title a[href*="zynkkk"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="agent-compiler"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="rag-as-a-service"]) .mywork-title,
     .mywork-card:has(.mywork-title a[href*="Decision-Ledger"]) .mywork-title,
