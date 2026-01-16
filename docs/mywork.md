@@ -31,7 +31,7 @@
     <div class="mywork-content">
         <h3 class="mywork-title">
             <a href="https://github.com/thetpmguy/rag-as-a-service" class="mywork-link">
-            Turn scattered information into clear decisions
+            RAG as a Service
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
