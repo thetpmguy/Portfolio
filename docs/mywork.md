@@ -17,8 +17,8 @@
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>
  <div class="mywork-tags">
-            <a href="https://www.linkedin.com/company/zynkkk" class="tag tag-github">LINKEDIN</a>
-     <a href="https://www.zynkkk.com" class="tag tag-github">WEBSITE</a>
+            <a href="https://www.linkedin.com/company/zynkkk" class="tag tag-github">SHCEDULE A DEMO</a>
+     <a href="https://www.zynkkk.com" class="tag tag-github">PRODUCT PAGE</a>
         </div>
     </div>
 </div>
