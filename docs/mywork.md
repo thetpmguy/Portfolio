@@ -12,7 +12,7 @@
     <div class="mywork-content">
         <h3 class="mywork-title">
             <a href="https://www.zynkkk.com" class="mywork-link">
-            A practical multi-agent system that turns scattered company knowledge into clear, explainable decisions
+            A practical multi-agent system that turns scattered dev tool knowledge into clear, explainable decisions
             </a>
         </h3>
    <div class="mywork-authors">Rahi Kumar</div>

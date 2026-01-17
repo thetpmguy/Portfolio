@@ -47,4 +47,6 @@ My work turns complex, high-pressure platform challenges into resilient, intelli
 
 As a leader, I prioritize culture and trust. I measure success not just by speed or reliability, but by team confidence, autonomy, and long-term sustainability.
 
+Note: This portfolio is a living document. AI evolves daily, and so does my work. I build in real time, ship fast, and refine continuously, so what you see here reflects an active, ongoing journey rather than a finished snapshot.
+
 P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
